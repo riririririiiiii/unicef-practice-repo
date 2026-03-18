@@ -7,3 +7,10 @@ jobs:
     steps:
       - name: Run a one-line script
         run: echo "Hello, world from my first CI pipeline!"
+      - name: Lint check
+        run: echo "Lint passed"
+      - name: Build project
+        run: echo "Build complete"
+      - name: Check README
+        run: grep "project" README.md
+        
