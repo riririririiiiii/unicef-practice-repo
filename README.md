@@ -22,7 +22,8 @@ The program will start and process the data according to the project logic.
 
 Project Structure
 
-my-project/
+my-project
+
 │
 ├── src/          
 ├── data/         
