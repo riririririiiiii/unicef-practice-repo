@@ -24,7 +24,6 @@ Project Structure
 
 my-project
 
-│
 ├── src/          
 ├── data/         
 ├── package.json  
